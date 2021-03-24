@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <show-overflow-tooltip style="width:80px">
+        300000000000000000000000000000033</show-overflow-tooltip>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
