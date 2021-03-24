@@ -1,14 +1,23 @@
 {
   "name": "hqzh-vue-ui",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
-  "description": "前端公用组件库",
+  "description": "基于element前端公用组件库",
   "main": "hqzh-vue-ui/package",
   "license":"MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/hqzh/hqzh-vue-ui"
   },
+  "keywords": [
+    "show-overflow-tooltip",
+    "hqzh-vue-ui",
+    "vue",
+    "element",
+    "frontend",
+    "vue-component",
+    "ui"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
