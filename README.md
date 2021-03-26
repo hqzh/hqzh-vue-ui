@@ -1,24 +1,4 @@
-# hqzh-vue-ui
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
+# hqzh-vue-ui  请在vue-cli4以上基础创建的工程中使用
 
 ### 组件安装
 

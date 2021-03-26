@@ -4648,6 +4648,17 @@ hpack.js@^2.1.6:
     readable-stream "^2.0.1"
     wbuf "^1.1.0"
 
+hqzh-vue-ui@^0.1.3:
+  version "0.1.3"
+  resolved "http://10.10.2.141:8081/repository/sutpc-npm-group/hqzh-vue-ui/-/hqzh-vue-ui-0.1.3.tgz#bd2980d48c19a00a5cdbde64ca1ccb367bfcd221"
+  integrity sha512-Q5VN4LVN3JnP/8PoOIQD/oP6dl1W/vkVOyHgRaCga1qRN+J+QTSXfpgV63v0Rl/ti77r19CXmj/FX0Utgjv7FA==
+  dependencies:
+    core-js "^3.6.5"
+    element-ui "^2.15.1"
+    vue "^2.6.11"
+    vue-router "^3.2.0"
+    vuex "^3.4.0"
+
 hsl-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hsl-regex/-/hsl-regex-1.0.0.tgz#d49330c789ed819e276a4c0d272dffa30b18fe6e"
